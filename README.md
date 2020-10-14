@@ -1,2 +1,6 @@
 # hello-world
-test repository
+
+Hello World,
+
+mayday here. Upskilling with git, github etc
+
